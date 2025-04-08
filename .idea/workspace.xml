@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b58875e2-eccc-4c3d-ae12-75e921fff3a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/andrePardinho/listas/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/andrePardinho/treinos/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
     "Application.Banco.executor": "Run",
     "Application.DateTest.executor": "Run",
     "Application.Dialog.executor": "Run",
+    "Application.DrawSmileyTest.executor": "Run",
     "Application.EmployeeTest.executor": "Run",
     "Application.InvoiceTest.executor": "Run",
     "Application.Main.executor": "Run",
