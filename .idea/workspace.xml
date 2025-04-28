@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b58875e2-eccc-4c3d-ae12-75e921fff3a1" name="Changes" comment="">
+    <list default="true" id="b58875e2-eccc-4c3d-ae12-75e921fff3a1" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;andrepardinho&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/andrepardinho/LP3_UESC.git&quot;,
+    &quot;accountId&quot;: &quot;3ddfc544-81ce-445d-aa17-074e75ff856b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -30,26 +42,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.Banco.executor": "Run",
-    "Application.DateTest.executor": "Run",
-    "Application.Dialog.executor": "Run",
-    "Application.DrawSmileyTest.executor": "Run",
-    "Application.EmployeeTest.executor": "Run",
-    "Application.InvoiceTest.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "java",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Andre Pardinho/Documents/LP3_UESC",
-    "onboarding.tips.debug.path": "C:/Users/Andre Pardinho/Documents/LP3_UESC/LP3_UESC/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Banco.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dialog.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DrawSmileyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InvoiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;java&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andre Pardinho/Documents/LP3_UESC&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Andre Pardinho/Documents/LP3_UESC/LP3_UESC/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,11 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1743728454336</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updates">
+      <option name="closed" value="true" />
+      <created>1744153139497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744153139497</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="date manipulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="date manipulation" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
 </project>
